@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: alekseysoroka/multi-server-pgfix-5-11
+          image: alekseysoroka/multi-server
           ports:
             - containerPort: 5000
           env:

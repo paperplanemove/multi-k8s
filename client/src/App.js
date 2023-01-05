@@ -20,7 +20,7 @@ function App() {
             Kuber
           </a>
           <Link to="/">Home</Link>
-          <Link to="/otherpage">Other Page 393</Link>
+          <Link to="/otherpage">Other Page</Link>
         </header>
         <div>
           <Route exact path="/" component={Fib} />
